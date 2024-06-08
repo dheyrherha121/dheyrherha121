@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/aisha_akere" target="blank"><img src="https://img.shields.io/twitter/follow/aisha_akere?logo=twitter&style=for-the-badge" alt="aisha_akere" /></a> </p>
 
-- 🔭 I’m currently working on [my personal blog API](https://github.com/dheyrherha121/Personal-Blog)
+- 🔭 I’m currently working on one beautiful project 😊🙈
 
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **any backend project**
 
-- 💬 Ask me about **Python, FastApi**
+- 💬 Ask me about **Python, FastApi, Django**
 
 - 📫 How to reach me **akereaishat8@gmail.com**
 
